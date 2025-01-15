@@ -2,7 +2,7 @@
 Guia do meu Github
 
 
-Python:
+#Python:
 
   Django: Jogo_inspirado_em_yugioh
   
@@ -12,7 +12,7 @@ Python:
 
 
 
-Java:
+##Java:
 
   Spring: SistemaSpring
   
@@ -20,7 +20,7 @@ Java:
 
 
 
-Javascript:
+###Javascript:
 
   masterlancheslanchonete
   
@@ -28,7 +28,7 @@ Javascript:
   
 
 
-HTML/CSS:
+####HTML/CSS:
 
   setevbaseguros - https://setevbaseguros.github.io/setevba
   
@@ -45,6 +45,6 @@ HTML/CSS:
   Vanessa_soares_advogada
 
    
-PHP:
+#####PHP:
 
   Lista_tarefas
