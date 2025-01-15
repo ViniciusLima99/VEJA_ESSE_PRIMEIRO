@@ -2,22 +2,44 @@
 Guia do meu Github
 
 Python:
+
   Django: Jogo_inspirado_em_yugioh
+  
   ygo_discord_bot 
+  
   Projeto_E-Commerce
+
   
 Java:
+
   Spring: SistemaSpring
-  Quarkus: 
+  
+  Quarkus: Api-quarkus
+
   
 Javascript:
   masterlancheslanchonete
   
-HTML/CSS:
-  setevbaseguros - https://setevbaseguros.github.io/setevba
-  Pousada - 
-  Vanessa_soares_advogada
-  insites
+  React: react-firebase-controleCaixa
   
+  
+HTML/CSS:
+
+  setevbaseguros - https://setevbaseguros.github.io/setevba
+  
+  Pousada - https://casadaesquinapousada.online/
+
+  fernanda_advogada - https://advfernanda.github.io/adv
+
+  GilmaPaivaAdv - https://gilmapaiva.github.io/home/
+  
+  flaviohenriqueadvogado - https://advflaviohenriquevieira.com/
+  
+  insites
+
+  Vanessa_soares_advogada
+
+   
 PHP:
+
   Lista_tarefas
