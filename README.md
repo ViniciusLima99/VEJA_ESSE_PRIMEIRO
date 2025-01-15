@@ -1,6 +1,7 @@
 # VEJA_ESSE_PRIMEIRO
 Guia do meu Github
 
+
 Python:
 
   Django: Jogo_inspirado_em_yugioh
@@ -9,20 +10,24 @@ Python:
   
   Projeto_E-Commerce
 
-  
+
+
 Java:
 
   Spring: SistemaSpring
   
   Quarkus: Api-quarkus
 
-  
+
+
 Javascript:
+
   masterlancheslanchonete
   
   React: react-firebase-controleCaixa
   
-  
+
+
 HTML/CSS:
 
   setevbaseguros - https://setevbaseguros.github.io/setevba
