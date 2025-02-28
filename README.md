@@ -4,7 +4,7 @@ Guia do meu Github
 
 ## Python:
 
-  Django: Jogo_inspirado_em_yugioh - feito em 2023, código não reflete minhas capacidades atuais.
+  Django: Jogo_inspirado_em_yugioh
   
   ygo_discord_bot 
   
