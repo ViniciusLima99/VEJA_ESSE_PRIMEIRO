@@ -4,7 +4,7 @@ Guia do meu Github
 
 ## Python:
 
-  Django: Jogo_inspirado_em_yugioh
+  Django: Jogo_inspirado_em_yugioh - feito em 2023, código não reflete minhas capacidades atuais.
   
   ygo_discord_bot 
   
@@ -25,8 +25,11 @@ Guia do meu Github
   masterlancheslanchonete
   
   React: react-firebase-controleCaixa
-  
 
+  React + Express.js + MongoDB: NewsOnline 
+
+## C#:
+  .NET: Gerenciador_Tarefas
 
 ## HTML/CSS:
 
