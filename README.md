@@ -29,7 +29,7 @@ Guia do meu Github
   React + Express.js + MongoDB: NewsOnline 
 
 ## C#:
-  .NET: Gerenciador_Tarefas
+  .NET + SQlite: Gerenciador_Tarefas
 
 ## HTML/CSS:
 
