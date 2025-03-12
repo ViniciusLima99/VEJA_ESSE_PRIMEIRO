@@ -28,6 +28,8 @@ Guia do meu Github
 
   React + Express.js + MongoDB: NewsOnline 
 
+  React + Express.js + MySQL pronto para CI/CD Docker + Gitlab: WebNovelEditor
+
 ## C#:
   .NET + SQlite: Gerenciador_Tarefas
 
