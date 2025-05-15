@@ -35,11 +35,11 @@ Guia do meu Github
 
 ## HTML/CSS:
 
-  setevbaseguros - https://setevbaseguros.github.io/setevba
+  setevbaseguros
   
   Pousada - https://casadaesquinapousada.online/
 
-  fernanda_advogada - https://advfernanda.github.io/adv
+  fernanda_advogada
 
   GilmaPaivaAdv - https://gilmapaiva.github.io/home/
   
